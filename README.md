@@ -1,6 +1,6 @@
 # 프레임워크를 위한 JavaScript ES6
 
-## Intro.
+### Intro.
 - 웹을 이루는 가장 중요한 세가지 요소
 
     : 구조 스타일 논리(JS)
@@ -17,6 +17,6 @@
 
 - ECMAScript (ES6)
 
-## Category
+### Category
 
-### 📙 [자료형]()
+### 📙 [자료형](https://github.com/jeonghye-choi/JavaScript-Study/blob/master/JavaScriptES6/%EC%9E%90%EB%A3%8C%ED%98%95.md)
