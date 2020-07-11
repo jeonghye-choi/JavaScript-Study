@@ -2,7 +2,7 @@
 
 JavaScript는 **'객체'** 기반의 **'스크립트 프로그래밍 언어'**
 
-### Intro.
+### ➰ Intro.
 - 웹을 이루는 가장 중요한 세가지 요소
 
     : 구조 스타일 논리(JS)
@@ -19,13 +19,17 @@ JavaScript는 **'객체'** 기반의 **'스크립트 프로그래밍 언어'**
 
 - ECMAScript (ES6)
 
-### Category
+<br>
+
+### ➰ Category
 
 ### 📙 [자료형](https://github.com/jeonghye-choi/JavaScript-Study/blob/master/JavaScriptES6/%EC%9E%90%EB%A3%8C%ED%98%95.md)
-### 📙 [제어문]()
+### 📙 [제어문](https://github.com/jeonghye-choi/JavaScript-Study/blob/master/JavaScriptES6/%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
+### 📙 [함수](https://github.com/jeonghye-choi/JavaScript-Study/blob/master/JavaScriptES6/%ED%95%A8%EC%88%98.md)
 
+<br>
 
-### 문법 학습의 함정에 대한 @강민철 선생님의 좋은 말씀
+### ➰ 문법 학습의 함정에 대한 @강민철 선생님의 좋은 말씀
 
 "동작원리와 문법을 배우되,
 
