@@ -29,6 +29,8 @@ JavaScript는 **'객체'** 기반의 **'스크립트 프로그래밍 언어'**
 ### 📙 [스코프](https://github.com/jeonghye-choi/JavaScript-Study/blob/master/Docs/%EC%8A%A4%EC%BD%94%ED%94%84.md)
 ### 📙 [this](https://github.com/jeonghye-choi/JavaScript-Study/blob/master/Docs/this.md)
 ### 📙 [callback함수]()
+### 📙 [변수]()
+### 📙 [템플릿리터럴]()
 
 
 <br>
