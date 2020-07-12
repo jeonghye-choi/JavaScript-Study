@@ -1,4 +1,4 @@
-# 📙 document.getElementByName is not a function
+# 💊 document.getElementByName is not a function
 
 ### ✔ getElementByName
 

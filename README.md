@@ -32,6 +32,13 @@ JavaScript는 **'객체'** 기반의 **'스크립트 프로그래밍 언어'**
 
 <br>
 
+### ➰ Error
+
+### 💊 document.getElementByName is not a function
+
+
+<br>
+
 ### ➰ 문법 학습의 함정에 대한 @강민철 선생님의 좋은 말씀
 
 "동작원리와 문법을 배우되,
